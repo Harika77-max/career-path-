@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI",
+  "description": "AI-powered personalized career and learning platform aligned with SIH26101",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
